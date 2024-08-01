@@ -1,4 +1,6 @@
-# 💫 About Me:
+
+# 💫 About Me:![Fundo linkedin](https://github.com/user-attachments/assets/9751c3e6-bdbe-486e-b9a6-c6c4833a7353)
+
 🔭 Estou trabalhando como estagiário de logística<br>👯 Estou procurando trabalhar com análise de dados<br>🤝 Estou procurando ajuda com engenharia de dados<br>🌱 Estou aprendendo SQL , IOT e Machine learnig <br>💬 Pergunte-me sobre Excel e Power BI<br>⚡ Estou me formando em engenharia de energia
 
 
